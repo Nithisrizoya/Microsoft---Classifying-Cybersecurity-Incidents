@@ -22,7 +22,7 @@ The solution developed in this project can be implemented in various business sc
 
 # Dataset Overview :
 
-GUIDE_train.csv (2.43 GB) GUIDE_test.csv (1.09 GB) Kaggle Link to Dataset
+GUIDE_train.csv (2.43 GB) GUIDE_test.csv (1.09 GB) **link :** https://www.kaggle.com/datasets/Microsoft/microsoft-security-incident-prediction
 
 The GUIDE dataset consists of over 13 million pieces of evidence across three hierarchical levels:
 
@@ -113,7 +113,7 @@ And the co-relation heatmap as well to understand co-linearity among the feature
 Trained using ensemble methods XGBoost and Random Forest; Random Forest performed the best.
 
       * RF_train_metrics.png
-      *  XGB_train_metrics.png
+      * XGB_train_metrics.png
 
 **Test Dataset Performance:**
 
