@@ -112,14 +112,14 @@ And the co-relation heatmap as well to understand co-linearity among the feature
 
 Trained using ensemble methods XGBoost and Random Forest; Random Forest performed the best.
 
-      * RF_train_metrics.png
-      * XGB_train_metrics.png
+      * RF_train_metrics.jpg
+      * XGB_train_metrics.jpg
 
 **Test Dataset Performance:**
 
 Selected the Random Forest Classifier and applied it to the test dataset.
 
-       * RF_test_metrics.png
+       * RF_test_metrics.jpg
 
 # 8. Inferences
 
