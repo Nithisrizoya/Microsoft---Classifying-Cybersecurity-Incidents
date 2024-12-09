@@ -40,15 +40,13 @@ The GUIDE dataset consists of over 13 million pieces of evidence across three hi
 
  # Tools Used
 
-  **IDE & Notebooks:** Google Colab 
+  **IDE & Notebooks:** Jupyter notebook
 
   **Programming Language:** Python
 
   **Libraries:** scikit-learn, Pandas, Matplotlib, Seaborn, NumPy
 
-  **Cloud Services:** BigQuery, Google Cloud Storage, Google Compute Engine
-
-  **Version Control:** Git, Github
+  **Version Control:** Github
 
 # Approach
 
